@@ -1,5 +1,5 @@
 import random
-from replit import clear
+# from replit import clear
 from art import logo
 
 
@@ -78,7 +78,7 @@ def play_game():
 
 
 while input("Do you want to play a game of Blackjack? Type 'y' or 'n': ") == "y":
-    clear()
+    # clear()
     play_game()
 
 # import random
