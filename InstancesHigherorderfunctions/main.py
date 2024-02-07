@@ -11,8 +11,6 @@ def move_backwards():
     tim.backward(10)
 
 def move_counterClockwise():
-    # new_heading = tim.heading + 10
-    # tim.setheading(new_heading)
     tim.left(45)
 
 def move_clockwise():
